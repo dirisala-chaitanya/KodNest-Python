@@ -19,3 +19,7 @@ print(a, b, c)
 x = y = z = 100
 print(x, y, z)
 
+print(x + a) # 110
+print(x + y) # 1000
+
+
